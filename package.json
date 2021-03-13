@@ -14,7 +14,6 @@
     "ts-jest": "^25.2.0",
     "typescript": "^3.7.5"
   },
-  "dependencies": {},
   "prettier": {
     "printWidth": 120
   },
