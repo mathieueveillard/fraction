@@ -1,5 +1,5 @@
 {
-  "name": "fraction-js",
+  "name": "fraction",
   "version": "1.0.0",
   "description": "Fraction kata in TypeScript",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieueveillard/fraction-js.git"
+    "url": "git+https://github.com/mathieueveillard/fraction.git"
   },
   "keywords": [
     "starter",
@@ -32,7 +32,7 @@
   "author": "Mathieu Eveillard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieueveillard/fraction-js/issues"
+    "url": "https://github.com/mathieueveillard/fraction/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/fraction-js#readme"
+  "homepage": "https://github.com/mathieueveillard/fraction#readme"
 }
