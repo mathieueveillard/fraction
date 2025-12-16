@@ -9,21 +9,8 @@ function gcd(a, b) {
 ```
 
 Examples:
+
 ```
 1/2 + 1/3 = 5/6
 1/4 + 1/4 = 1/2
-```
-
-## Installation
-
-```
-git clone https://github.com/mathieueveillard/fraction-js.git
-cd fraction-js
-npm install
-```
-
-## Development
-
-```
-npm test
 ```
